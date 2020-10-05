@@ -38,5 +38,5 @@ The analysis presented here is only a very rough approximation, and lacks signif
 
 ## Results
 
-Based on available data, we would suggest a low to low moderate campaign goal (<$5k), with a launch date from April to August (optimally May), with a secondary option of February. 
+Within the limits of the available data, we would suggest a low to low moderate campaign goal (<$5k), with a launch date from April to August (optimally May), with a secondary option of February. 
 
