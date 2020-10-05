@@ -26,7 +26,7 @@ Note: Cancelled campaigns remained low and steady enough across the time period,
 
 ### Analysis of Outcomes Based on Goals
 
-Outcomes_vs_Goals.png
+![Outcome Based on Goal](Outcomes_vs_Goals.png)
 
 Data is presented here as a percentage line graph of successful vs. unsuccessful campaigns, broken up by various funding goal "buckets". The buckets are arranged between $0 and $50k+ in $5k increments, except for the lowest bucket (<$1k). Cancelled campaigns were analyzed as well, but were not present within this data set. 
 
