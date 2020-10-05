@@ -14,7 +14,7 @@ We collected publicly available data regarding a wide variety of Kickstarter cam
 
 ### Analysis of Outcomes Based on Launch Date
 
-[Theater Outcomes Based on Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
+[Theater Outcomes Based on Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 Data for successful, failed, and cancelled Theater campaigns across the available time period were assembled into a single line graph. Theater campaigns overall were relatively successful, with successes tracking at or above failures across all launch dates. In terms of the ratio of successful to failed campaigns, we see a minor peak in February, a small retraction into March, then a rapid increase to a max peak in May. We then see a decline through the Summer into early Fall, with a slight improvement in September. From there, things tighten into Winter, reaching a low point of effectively 1:1 in December before improving back up sharply in January. 
 
@@ -26,7 +26,7 @@ Note: Cancelled campaigns remained low and steady enough across the time period,
 
 ### Analysis of Outcomes Based on Goals
 
-[Outcome Based on Goal](/resources/Outcomes_vs_Goals.png)
+[Outcome Based on Goal](Outcomes_vs_Goals.png)
 
 Data is presented here as a percentage line graph of successful vs. unsuccessful campaigns, broken up by various funding goal "buckets". The buckets are arranged between $0 and $50k+ in $5k increments, except for the lowest bucket (<$1k). Cancelled campaigns were analyzed as well, but were not present within this data set. 
 
